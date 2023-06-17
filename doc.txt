@@ -1,0 +1,34 @@
+Day 1: HTML Basic
+---------------------------------------
+bold - b 
+ittalic - i 
+strong - s 
+small - small 
+heading - h1-h6
+anchor - a 
+image - img 
+list - ol,ul:li 
+button
+input
+break - br 
+beark line - hr
+fab icon
+link
+---------------------------------------
+
+Day 2: CSS Basic
+---------------------------------------
+id - #name
+class - .name 
+---------------------------------------
+
+Day 3: Git Basic
+---------------------------------------
+echo "# test1" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Farhan-Eshrak/test1.git
+git push -u origin main
+
